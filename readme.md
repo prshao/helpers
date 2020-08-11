@@ -1,6 +1,6 @@
 # Helpers
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/nesbot/carbon.svg?style=flat-square)](https://packagist.org/packages/nesbot/carbon)
+[![Latest Stable Version](https://img.shields.io/packagist/v/prshao/helpers.svg?style=flat-square)](https://packagist.org/packages/prshao/helpers)
   
 ## Installation
  
